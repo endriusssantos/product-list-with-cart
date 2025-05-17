@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/desktop-design-empty.jpg)
-![](./assets/images/mobile-design-empty.jpg)
+![](./public/assets/images/desktop-design-empty.jpg)
+![](./public/assets/images/mobile-design-empty.jpg)
 
 ### Built with
 
